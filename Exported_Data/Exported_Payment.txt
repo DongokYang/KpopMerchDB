@@ -1,0 +1,11 @@
+1,Unpaid,DebitCard,.00,88.80
+2,Unpaid,Cash,.00,47.05
+3,Unpaid,Etransfer,.00,49.83
+4,Unpaid,Cash,.00,23.84
+5,Unpaid,Cash,.00,26.16
+6,Unpaid,DebitCard,.00,37.48
+7,Unpaid,DebitCard,.00,29.91
+8,Unpaid,DebitCard,.00,12.15
+9,Unpaid,DebitCard,.00,31.84
+10,Unpaid,Etransfer,.00,20.95
+11,Paid,Credit Card,200.00,200.00

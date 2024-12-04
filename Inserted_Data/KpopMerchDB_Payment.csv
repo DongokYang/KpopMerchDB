@@ -1,0 +1,11 @@
+payment_id,payment_status,payment_method,amount_paid,payment_total
+1,Unpaid,DebitCard,0,0
+2,Unpaid,Cash,0,0
+3,Unpaid,Etransfer,0,0
+4,Unpaid,Cash,0,0
+5,Unpaid,Cash,0,0
+6,Unpaid,DebitCard,0,0
+7,Unpaid,DebitCard,0,0
+8,Unpaid,DebitCard,0,0
+9,Unpaid,DebitCard,0,0
+10,Unpaid,Etransfer,0,0
